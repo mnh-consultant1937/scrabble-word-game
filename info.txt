@@ -1,0 +1,41 @@
+We’ll build a very simple, text-based Scrabble game:
+
+🎮 Game Rules (Simplified)
+
+Player gets 7 random letters
+
+Player types a word
+
+Word is valid if:
+
+Uses only given letters
+
+Exists in a word list
+
+Score is calculated based on letter values
+
+Player can play multiple rounds
+
+
+
+Recommended Progression
+
+Load a real Scrabble dictionary file
+***🧠 Implement best possible word finder (Automatically find the best possible word from the rack)
+Implement letter distribution (not uniform random)
+
+Add computer opponent
+
+Add bonus squares (double word, triple letter)
+🧠 Find the best possible word from the rack
+
+***💡 Hint system (show 3 valid words)
+
+🎁 Bonus scoring rules (long words, rare letters)
+
+***⚡ Performance optimization
+⚡ Speed optimizations
+
+***🧪 Add unit tests
+
+***Convert to GUI (Tkinter or Pygame)
