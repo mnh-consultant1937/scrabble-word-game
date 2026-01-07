@@ -36,6 +36,33 @@ Add bonus squares (double word, triple letter)
 ***⚡ Performance optimization
 ⚡ Speed optimizations
 
+Import a full Scrabble dictionary
+
+Filter words by rack letters
+
+Precompute word scores for speed
+
 ***🧪 Add unit tests
 
 ***Convert to GUI (Tkinter or Pygame)
+
+
+Integrating data persistency and online access:
+Store user accounts and high scores
+
+Save game progress (rack, letters left in bag)
+
+Maintain dictionary data efficiently for online queries
+
+Support multiple users simultaneously if online
+
+Start with SQLite for simplicity.
+
+Later, migrate to PostgreSQL or MySQL if online multi-user support is needed.
+
+
+
+
+
+
+
