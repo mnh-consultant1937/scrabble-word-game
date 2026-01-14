@@ -17,6 +17,13 @@ Score is calculated based on letter values
 Player can play multiple rounds
 
 
+Important coding practices:
+✔ Clean separation of concerns
+✔ Persistent users & scores
+✔ Database auto-creation
+✔ Scalable architecture
+✔ Professional project structure
+
 
 Recommended Progression
 
@@ -61,6 +68,16 @@ Start with SQLite for simplicity.
 Later, migrate to PostgreSQL or MySQL if online multi-user support is needed.
 
 
+
+
+requirements.txt file:
+Step 1: Make sure your virtual environment is active
+Step 2: Generate the file
+pip freeze > requirements.txt
+This includes everything installed, even unused packages.
+
+Now requirements.txt is a file that lists all Python packages the project needs, so anyone (or any server) can run:
+pip install -r requirements.txt
 
 
 

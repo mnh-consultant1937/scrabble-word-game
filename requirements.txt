@@ -1,0 +1,14 @@
+certifi==2026.1.4
+charset-normalizer==3.4.4
+ftfy==6.3.1
+idna==3.11
+langcodes==3.5.1
+locate==1.1.1
+msgpack==1.1.2
+regex==2025.11.3
+requests==2.32.5
+urllib3==2.6.2
+wcwidth==0.2.14
+
+
+
