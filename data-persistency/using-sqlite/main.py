@@ -68,3 +68,19 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+# requirements.txt file:
+# Step 1: Make sure your virtual environment is active
+# Step 2: Generate the file
+# pip freeze > requirements.txt
+# This includes everything installed, even unused packages.
+
+# Now requirements.txt is a file that lists all Python packages the project needs, so anyone (or any server) can run:
+# pip install -r requirements.txt
+
+
+
+
